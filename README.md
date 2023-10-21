@@ -30,7 +30,8 @@ In this simple web-based game, the computer selects a secret number between 1 an
 
 ## Demo
 
-![Game Screenshot](Screenshot.png)
+![Game Screenshot](![Screenshot](https://github.com/TheFastest599/Guess-My-Number-/assets/127510923/631a1677-6415-4437-b453-6c3cb400b479)
+)
 
 For a live demonstration, you can play the game [here](insert-game-link-here).
 
