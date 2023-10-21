@@ -30,7 +30,7 @@ In this simple web-based game, the computer selects a secret number between 1 an
 
 ## Demo
 
-![Game Screenshot](/Screenshot.png)
+![Game Screenshot](Screenshot.png)
 
 For a live demonstration, you can play the game [here](insert-game-link-here).
 
